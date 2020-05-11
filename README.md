@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# DHome
 
-You can use the [editor on GitHub](https://github.com/deeg05/DHome/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+DHome is **free** smarthome ecosystem made to be used **inside** the home network
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Why DHome?
 
-### Markdown
+DHome is **simple** to set up. No need to **register pointless accounts**.
+DHome is **open**. You could solve everything **yourself**, without spending time talking to tech support.
+DHome is **lightweight**. No nasty **ads**, no bloat.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Products
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/deeg05/DHome/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [Lightswitch](https://deeg05.github.io/dhome_lightswitch)
+* [Climate](https://deeg05.github.io/dhome_lightswitch)
+* [Lock](https://deeg05.github.io/dhome_lightswitch)
