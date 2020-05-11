@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: DHome - Intranet Smarthome
 show_downloads: false
+show_apps: true
 description: DHome is intranet of things smarthome ecosystem full of useful devices
